@@ -1,0 +1,22 @@
+.main.light{
+    background-image: url(/src/assets/bacLight.jpg);
+    background-repeat: repeat;
+}
+
+.main.dark{
+    background-image: url(/src/assets/bacDark.svg);
+    background-repeat: repeat;
+}
+
+.card_img {
+    height: 150px;
+}
+
+.card-title {
+    font-size: 1rem;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
