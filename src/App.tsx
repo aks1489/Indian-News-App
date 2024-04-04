@@ -1,13 +1,11 @@
 import './App.css'
-import Nav from './components/Nav'
-import News from "./components/News"
+import NewsBody from './components/NewsBody'
 
 function App() {
 
   return (
     <div className='main dark'>
-      <Nav />
-      <News />
+      <NewsBody />
     </div>
   )
 }
