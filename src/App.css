@@ -8,8 +8,13 @@
     background-repeat: repeat;
 }
 
+.nav-link{
+    cursor: pointer;
+}
+
 .card_img {
     height: 150px;
+    object-fit: cover;
 }
 
 .card-title {
@@ -20,3 +25,11 @@
     font-size: 12px;
 }
 
+.artical_description {
+    font-size: 0.9rem;
+}
+
+.scroller {
+    height: 7rem;
+    overflow-y: scroll;
+}
